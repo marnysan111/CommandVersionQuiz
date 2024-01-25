@@ -1,0 +1,82 @@
+[
+    {
+        "command": "node",
+        "version_option": "-v"
+    },
+    {
+        "command": "npm",
+        "version_option": "-v"
+    },
+    {
+        "command": "python",
+        "version_option": "--version"
+    },
+    {
+        "command": "docker",
+        "version_option": "--version"
+    },
+    {
+        "command": "git",
+        "version_option": "--version"
+    },
+    {
+        "command": "java",
+        "version_option": "--version"
+    },
+    {
+        "command": "pip",
+        "version_option": "--version"
+    },
+    {
+        "command": "ruby",
+        "version_option": "-v"
+    },
+    {
+        "command": "gcc",
+        "version_option": "--version"
+    },
+    {
+        "command": "go",
+        "version_option": "version"
+    },
+    {
+        "command": "perl",
+        "version_option": "-v"
+    },
+    {
+        "command": "vim",
+        "version_option": "--version"
+    },
+    {
+        "command": "emacs",
+        "version_option": "--version"
+    },
+    {
+        "command": "bash",
+        "version_option": "--version"
+    },
+    {
+        "command": "zsh",
+        "version_option": "--version"
+    },
+    {
+        "command": "kubectl",
+        "version_option": "version"
+    },
+    {
+        "command": "gradle",
+        "version_option": "-v"
+    },
+    {
+        "command": "maven",
+        "version_option": "-v"
+    },
+    {
+        "command": "ansible",
+        "version_option": "--version"
+    },
+    {
+        "command": "terraform",
+        "version_option": "-v"
+    }
+]
